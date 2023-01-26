@@ -1,0 +1,5 @@
+﻿The crux of this assignment is to analyze the information from fifteen different schools and the students within them. Finding the total budget of each school, average scores for subjects like math and reading, percentage of students who passed each subject for each school etc. 
+Large schools had higher budgets, higher numbers of enrolled students but generally had lower rates of passing as well as scores for reading, math in comparison to small/medium schools.
+Charter schools tended to outperform district schools. They had lower budgets, lower number of students enrolled as well as a generally lower budget per student. District schools had higher budgets, larger number of students but a very bad overall passing percentage. Only about half their students passed both subjects despite access to more funding. 
+Most students in each grade tended to do better in reading than in math regardless of the type of school they were in. 
+Charter schools outperformed district schools in every fashion when it came to math scores, reading scores as well as passing rates for both.
